@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     var someArray = ["one", "two", "three"]
     var newArray = ["dicks", "butts", "tits"]
     var theBestArray = ["Dyeuccks", "DickButt", "HEH"]
+    var seriously = ["Ooooooooooohhh" "HEHHH!!!" "JESUS FUCK!!!"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
