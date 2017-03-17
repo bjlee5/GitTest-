@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     var someArray = ["one", "two", "three"]
     var newArray = ["dicks", "butts", "tits"]
+    var theBestArray = ["Dyeuccks", "DickButt", "HEH"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
