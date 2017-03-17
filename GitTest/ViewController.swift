@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var someArray = ["one", "two", "three"]
+    var newArray = ["dicks", "butts", "tits"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
